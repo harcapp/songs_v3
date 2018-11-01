@@ -6,12 +6,12 @@ Bayer full
 https://www.youtube.com/watch?v=OFP6oSmCc_U
 <C D G
 e
-C D G
-e
-C D G
-e
+0
+1
+0
+1
 C D
-e>Nie zabieraj z sobą nic, nawet słów
+1>Nie zabieraj z sobą nic, nawet słów
 Na cóż bagaż ten
 Ruszaj z nami skoro świt, ruszaj tam
 Na mazurski rejs
@@ -19,13 +19,13 @@ Jak powracających fal, cieniem Ty
 Będziesz wracał wciąż
 Wracał, aby jeszcze raz
 Ujrzeć ją<e h
-e h
-e h
+0
+0
 a H7
-e h
-e h
-e h
-a H7>Gdzieś w szuwarach zbłądził wiatr
+0
+0
+0
+3>Gdzieś w szuwarach zbłądził wiatr
 Ciszę niesie noc
 Nad plażami goni nas
 Czyjś zbłąkany głos
@@ -41,7 +41,7 @@ Zlecą jak we śnie
 Popiół z ognisk rozwiał wiatr
 Opustoszał brzeg<<1>Pozostanie wspomnień garść
 I smak twoich łez
-Znów za rok popłynąć chę
+Znów za rok popłynąć chcę
 Na mazurski rejs
 Szlakiem pustym dzikich plaż
 Płynie moja łódź
