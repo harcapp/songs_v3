@@ -1,5 +1,5 @@
 
-30_raz;30 raz;2
+30_raz;30 raz;3
 a_ja_nie_chce_czekolady;A ja nie chcę czekolady;2
 a_kiedy_przyjdzie_na_mnie_czas;﻿A kiedy przyjdzie na mnie czas;4
 a_my_nie_chcemy_uciekac_stad;﻿A my nie chcemy uciekać stąd;4
@@ -7,10 +7,11 @@ a_ty_tancz;﻿A ty tańcz;4
 abordaz;Abordaż;2
 ach_kiedy_znowu_rusza_dla_mnie_dni;Ach, kiedy znowu ruszą dla mnie dni;2
 ajrisz;Ajrisz;3
-ale_to_juz_bylo;﻿Ale to już było;2
+ale_to_juz_bylo;﻿Ale to już było;3
 aleksander_siergiejewicz_puszkin;Aleksander Siergiejewicz Puszkin;2
 alexander;﻿Alexander;4
 alleluja_pl;﻿Alleluja;4
+alleluja_wznies_pod_niebo_glos;Alleluja! Wznieś pod niebo głos;1
 alone;Alone;2
 ani_slowa_hercules;Ani słowa (Hercules);2
 aniol_i_diabel;﻿Anioł i diabeł;4
@@ -22,7 +23,7 @@ archanioly_slaskiej_ziemi;﻿Archanioły śląskiej ziemi;5
 autobiografia;﻿Autobiografia;4
 autoportret_witkacego;﻿Autoportret Witkacego;4
 babka_w_klapkach;﻿Babka w klapkach;2
-ballada_majowa;﻿Ballada majowa;5
+ballada_majowa;﻿Ballada majowa;6
 ballada_o_botany_bay;Ballada o Botany Bay;2
 ballada_o_dziewczynie_co_pila_gorace_mleko;﻿Ballada o dziewczynie co piła gorące mleko;4
 ballada_o_dziewczynie_co_pila_gorace_mleko_zielen;﻿Ballada o dziewczynie co piła gorące mleko;2
@@ -35,6 +36,7 @@ bartne;Bartne;2
 beskid;﻿Beskid;2
 bez_slow;﻿Bez słów;5
 bezpowrotnie;﻿Bezpowrotnie;4
+bezwladnie;Bezwładnie;1
 bialy_krzyz;Biały Krzyż;3
 bieszczady;﻿Bieszczady;4
 bieszczady_rock_n_roll;﻿Bieszczady rock'n'roll;5
@@ -58,6 +60,7 @@ bracia_patrzcie_jeno;Bracia patrzcie jeno;2
 brzydala;Brzydala;2
 buki;﻿Buki;4
 bula_z_maslem;Buła (z masłem);2
+bylas_dla_mnie_wszystkim;Byłaś dla mnie wszystkim;1
 bylo_kiedys_miedzy_nami;Było kiedyś między nami;2
 call_me_maybe;Call me maybe;3
 chce_tu_zostac;Chcę tu zostać;5
@@ -85,6 +88,7 @@ czerwone_korale;Czerwone korale;2
 czort;﻿Czort (Skaut bez buta);3
 cztery_piwka;Cztery piwka;3
 dalej_wesolo;Dalej wesoło;2
+daleka_droga_do_domu;Daleka droga do domu;1
 deszcz_na_szlaku;Deszcz na szlaku;2
 dla_ciebie;﻿Dla ciebie;4
 dla_mamy;Dla mamy;5
@@ -102,7 +106,7 @@ dom_malowany;﻿Dom malowany;2
 dotknij_panie_moich_oczu;Dotknij Panie moich oczu;1
 dozywocie_gor;﻿Dożywocie gór;2
 droga_mi_nie_straszna_herkules;Droga mi nie straszna (Herkules);1
-droga_teosiu_hamilton;Droga Teosiu (Hamilton);1
+droga_teosiu_hamilton;Droga Teosiu (Hamilton);2
 drogi_lesie;﻿Drogi lesie;3
 druzyna;Drużyna;1
 druzynowy_z_wyobrazni;﻿Drużynowy z wyobraźni;1
@@ -163,7 +167,7 @@ jalta;Jałta;1
 jam;﻿Jam (Wiosenny);4
 jasnowlosa;﻿Jasnowłosa;5
 jaworzyna;Jaworzyna;1
-jeden_glos;Jeden głos;1
+jeden_glos_krol_lew;Jeden głos (Król Lew);1
 jejku_jejku;Jejku, jejku;1
 jesienna_prosba;Jesienna prośba;1
 jesienne_wino;Jesienne wino;1
@@ -252,6 +256,7 @@ miejcie_nadzieje;Miejcie nadzieję;1
 miljon;﻿Miljon;2
 milosc_rosnie_wokol_nas;﻿Miłość rośnie wokół nas (Król lew);1
 milosc_w_zakopanem;Miłość w Zakopanem;1
+milosna;Miłosna;1
 mizerna_cicha;Mizerna cicha;1
 mniej_niz_zero;Mniej niż zero;1
 modlitwa_harcerska;Modlitwa harcerska;1
@@ -266,9 +271,10 @@ murzyn;Murzyn;1
 my_cyganie;My cyganie;1
 my_pierwsza_brygada;My pierwsza brygada;1
 na_co_komu_dzis;Na co komu dziś;1
-na_drodze_tej;Na drodze tej;1
+na_drodze_tej_vaiana;Na drodze tej (Vaiana);1
 na_jednej_z_dzikich_plaz;﻿Na jednej z dzikich plaż;4
 na_kamieniu;Na kamieniu;1
+na_morza_dnie_mala_syrenka;Na morza dnie (Mała Syrenka);1
 na_wiosny_poczatek;Na wiosny początek;1
 nad_szafirowym_potokiem;﻿Nad szafirowym potokiem;1
 nadzieja_hey;﻿Nadzieja;3
@@ -300,6 +306,7 @@ niemanie;﻿Niemanie;3
 nienawisc;﻿Nienawiść;3
 niepewnosc;﻿Niepewność;3
 niepokoj;﻿Niepokój;3
+nikt_tak_pieknie_nie_mowil_ze_sie_boi_milosci;Nikt tak pięknie nie mówił, że się boi miłości;1
 nim_stanie_sie_tak;﻿Nim stanie się tak;3
 nim_wstanie_swit;Nim wstanie świt;1
 noc_albo_oczekiwanie_na_sniadanie;Noc albo oczekiwanie na śniadanie;1
@@ -309,12 +316,13 @@ nowa;Nowa;4
 oblawa;﻿Obława;2
 ocalic_od_zapomnienia;﻿Ocalić od zapomnienia;1
 oczekiwanie;﻿Oczekiwanie;2
+odpocznijmy;Odpocznijmy;1
 odyseja_spadochronowa;﻿Odyseja spadochronowa;2
 ofiaruje_tobie_panie_moj;Ofiaruję Tobie, Panie mój;1
 ogien;﻿Ogień;3
 oj_maluski_maluski;Oj maluśki, maluśki;1
 okruszyna;﻿Okruszyna (Do Pana);2
-on_nie_jest_juz_jednym_z_nas;﻿On nie jest już jednym z nas (Król lew);2
+on_nie_jest_juz_jednym_z_nas_krol_lew;﻿On nie jest już jednym z nas (Król Lew);3
 ona_jest_ze_snu;﻿Ona jest ze snu;3
 ona_tanczy_dla_mnie;﻿Ona tańczy dla mnie;2
 opadly_mgly;﻿Opadły mgły;3
@@ -333,6 +341,7 @@ pacyfik;﻿Pacyfik;2
 pamiatka_ze_splywu;Pamiątka ze spływu;1
 pamietam;Pamiętam;1
 pare_chwil;﻿Parę chwil;3
+pastempomat;Pastempomat;1
 pastuch;﻿Pastuch;4
 pechowy_dzien;﻿Pechowy dzień;4
 pejzaze_harasymowiczowskie;﻿Pejzaże harasymowiczowskie;4
@@ -357,14 +366,14 @@ piosenka_z_praniem_w_tle;﻿Piosenka z praniem w tle;3
 piosenka_zauroczonego;﻿Piosenka zauroczonego;3
 plastelina;﻿Niewidzialna plastelina;3
 plastikowa_biedronka;﻿Plastikowa biedronka;3
-plonie_ognisko;﻿Płonie ognisko;3
+plonie_ognisko;﻿Płonie ognisko;4
 po_co_ja_tu_jestem;Po co ja tu jestem;2
 po_strunach_ide_do_nieba;Po strunach idę do nieba;1
 poczekalnia;Poczekalnia;1
 pocztowka_z_beskidu;Pocztówka z Beskidu;1
 pod_gore;Pod górę;1
 pod_katem_ostrym;﻿Pod kątem ostrym;3
-pod_slonce;﻿Pod słońce;2
+pod_slonce;Pod słońce;1
 podobna;Podobna;1
 poezja;﻿Poezja;3
 pojde_boso;﻿Pójdę boso;3
@@ -410,8 +419,9 @@ sacrum;Sacrum;1
 samantha;Samantha;1
 samotny_rajd;Samotny rajd;1
 sanctus;﻿Sanctus;4
-sarajewo;Sarajewo;1
+sarajewo;Sarajewo;2
 scenariusz_dla_moich_sasiadow;Scenariusz dla moich sąsiadów;2
+scisz_to;Ścisz to;1
 sen_katarzyny_ii;﻿Sen Katarzyny II;3
 sen_o_warszawie;Sen o Warszawie;1
 serce_wolnosci;Serce wolności;2
@@ -444,11 +454,12 @@ tam_gdzie_bylem;Tam gdzie byłem;1
 tato;Tato;1
 teksanski;﻿Teksański;3
 teskniacz;Tęskniacz;1
-testament;﻿Testament;2
+testament;﻿Testament;3
 to_zuchy;To zuchy;1
 tobie_albo_zawieja_w_michingan;﻿Tobie albo zawieja w Michingan;3
 tolerancja;Tolerancja;1
 trawa;﻿Trawa;3
+tu_i_teraz;Tu i teraz;1
 tyle_slonca_w_calym_miescie;Tyle słońca w całym mieście;1
 tylko_mnie_popros_do_tanca;﻿Tylko mnie poproś do tańca;4
 u_studni;U studni;1
@@ -539,7 +550,7 @@ zimowa_opowiesc;Zimowa opowieść;1
 znow_piata_nad_ranem;﻿Znów piąta nad ranem;3
 znow_wedrujemy;Znów wędrujemy;4
 zodiak;﻿Zodiak (Tylko chcieć);1
-zostanie_tyle_gor;﻿Zostanie tyle gór;3
+zostanie_tyle_gor;﻿Zostanie tyle gór;4
 zostawcie_titanica;﻿Zostawcie Titanica;3
 zrodlo;Źródło;1
 zwiewnosc;﻿Zwiewność;3
