@@ -1,6 +1,6 @@
 
 30_raz;30 raz;3
-4:30;4:30;1
+4:30;4:30;2
 a_ja_nie_chce_czekolady;A ja nie chcę czekolady;3
 a_kiedy_przyjdzie_na_mnie_czas;﻿A kiedy przyjdzie na mnie czas;4
 a_my_nie_chcemy_uciekac_stad;﻿A my nie chcemy uciekać stąd;4
@@ -38,6 +38,7 @@ beskid;﻿Beskid;2
 bez_slow;﻿Bez słów;5
 bezpowrotnie;﻿Bezpowrotnie;4
 bezwladnie;Bezwładnie;1
+biale_roze;Białe róże;1
 bialy_krzyz;Biały Krzyż;1
 bieszczady;﻿Bieszczady;4
 bieszczady_rock_n_roll;﻿Bieszczady rock'n'roll;5
@@ -148,9 +149,11 @@ harcerskie_idealy;﻿Harcerskie ideały;5
 harcerzem_byc;Harcerzem być;1
 hawiarska_koliba;Hawiarska Koliba;1
 hej_czy_nie_wiecie;Hej czy nie wiecie;1
+hej_hej_ulani;Hej, hej, ułani;1
 hej_przyjaciele;﻿Hej przyjaciele;3
+hej_strzelcy_wraz;Hej, strzelcy wraz;1
 hej_w_dzien_narodzenia;Hej, w dzień narodzenia;2
-hej_w_gory;﻿Hej w góry;1
+hej_w_gory;﻿Hej w góry;2
 hiszpanskie_dziewczyny;﻿Hiszpańskie dziewczyny;3
 hymn_szarych_szeregow;Hymn Szarych Szeregów;1
 hymn_zhp;﻿Hymn ZHP;2
@@ -323,6 +326,7 @@ noc_albo_oczekiwanie_na_sniadanie;Noc albo oczekiwanie na śniadanie;1
 noc_w_bacowce;Noc w bacówce;1
 noc_w_bieszczadach;Noc w bieszczadach;1
 nowa;Nowa;4
+o_moj_rozmarynie;O mój rozmarynie;1
 oblawa;﻿Obława;2
 obudz_sie;Obudź się;1
 ocalic_od_zapomnienia;﻿Ocalić od zapomnienia;1
@@ -344,7 +348,7 @@ orki_z_majorki;Orki z Majorki;1
 orzel_bialy;Orzeł Biały;1
 osiagniecia;﻿Osiągnięcia;3
 ostatni;Ostatni;1
-ostatni_port;Ostatni port;1
+ostatni_port;Ostatni port;2
 ostatnia_kula;﻿Ostatnia kula (Historia Roja);3
 ostatnia_nocka;Ostatnia nocka;1
 oto_jest_dzien;Oto jest dzień;1
@@ -458,6 +462,7 @@ strumien;Strumień;1
 superbohater;Superbohater;1
 swierszcz;﻿Świerszcz;2
 szara_lilijka;﻿Szara lilijka;2
+szara_piechota;Szara piechota;1
 szare_szeregi;﻿Szare szeregi;2
 szesnascie_ton;Szesnaście ton;1
 sznurek;﻿Sznurek;3
